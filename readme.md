@@ -1,0 +1,1 @@
+java -cp "src/main/java;mysql-connector-j-9.2.0.jar" com.employee.management.EmployeeUI
